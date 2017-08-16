@@ -1,4 +1,3 @@
-# dux
-DUX class site
+# Pratt MFA Graduate Seminar B
 
-Site: https://jarrettfuller.github.io/dux/
+Site: jarrettfuller.com/seminar
