@@ -52,9 +52,6 @@ nav {
 .class {
     width: 50%;
 }
-img {
-    width: 60%;
-}
 
 /* MOBILE
 ----------------------------------- */
@@ -68,6 +65,3 @@ img {
     .class {
         width: 100%;
     }
-    img {
-    width: 100%;
-}
